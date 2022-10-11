@@ -1,5 +1,6 @@
 import csv
 
+
 with open('amex2022.csv', 'r') as csv_file:
     reader = csv.reader(csv_file)
 
